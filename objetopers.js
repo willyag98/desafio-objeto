@@ -13,9 +13,7 @@ const otraPersona = {
 };
 
 console.log("Datos de:", yo.nombre);
-console.log(typeof yo.nombre)
 console.log(yo);
 
 console.log("Datos de:", otraPersona.nombre);
-console.log(typeof otraPersona.nombre);
 console.log(otraPersona);
